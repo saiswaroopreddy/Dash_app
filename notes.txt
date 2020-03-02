@@ -1,0 +1,3 @@
+- Install the required packages for python
+- cd into this directory from command line and run : python dash_app2.py
+- It will give you the localhost link where the app resides
